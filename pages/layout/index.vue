@@ -3,7 +3,7 @@
     <!-- 顶部导航栏 -->
     <nav class="navbar navbar-light">
       <div class="container">
-        <nuxt-link class="navbar-brand" to="/">conduit22</nuxt-link>
+        <nuxt-link class="navbar-brand" to="/">标题</nuxt-link>
         <ul class="nav navbar-nav pull-xs-right">
           <li class="nav-item">
             <!-- exact 必须等于/才会高亮 -->
